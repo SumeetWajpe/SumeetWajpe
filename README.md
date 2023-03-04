@@ -15,7 +15,7 @@ My trainings are 90-95% hands-on.🕺YES. All hands-on & practical knowledge, no
 I enjoy my work and in my leisure time I sing🎤, I ride 🏍️, do bird photography🦉 🦅& I am scuba diving enthusiast 🤿.
 
 ##Tools and Tech
-
+<div style="display:flex">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" alt="React" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" height="50px" alt="Storybook" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50px" alt="Figma" />
@@ -50,7 +50,7 @@ I enjoy my work and in my leisure time I sing🎤, I ride 🏍️, do bird photo
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" /
-
+     </div>
 
 
 
