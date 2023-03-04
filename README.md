@@ -61,7 +61,7 @@ I am a scuba diving enthusiast 🤿.
 [![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe&&show_icons=true&theme=vue-dark)](https://github.com/SumeetWajpe/github-readme-stats)
 
 
-     <p>I am reachable on : </p>
+    <p>I am reachable on : </p>
      <p> &nbsp;➤ learnitwithsumeet@gmail.com </p>
      <p> &nbsp;➤ +91 9881242590 </p>
      <p> &nbsp;➤ https://www.linkedin.com/in/sumeet-wajpe-the-trainer/ </p>
