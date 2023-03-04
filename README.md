@@ -29,7 +29,7 @@ I enjoy my work and in my leisure time I sing🎤, I ride 🏍️, do bird photo
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" height="50px" alt="Docker" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" height="50px" alt="Kubernetes" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="50px" alt="JS" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express.eps" height="50px" alt="Express" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="50px" alt="Express" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="50px" alt="Node" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" height="50px" alt="Angular" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" height="50px" alt="Dart" />
