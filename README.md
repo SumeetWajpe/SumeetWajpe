@@ -17,11 +17,11 @@ I enjoy my work and in my leisure time I sing🎤, I ride 🏍️, do bird photo
 ##Tools and Tech
 <div style="display:flex">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" alt="React" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" height="50px" alt="Storybook" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" height="100px" alt="Storybook" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50px" alt="Figma" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="50px" alt="Redux" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="50px" alt="Typescript" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="50px" alt="Git" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="100px" alt="Git" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="50px" alt="Flutter" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="50px" alt="VSCODE" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50px" alt="Tailwind" />
@@ -33,23 +33,23 @@ I enjoy my work and in my leisure time I sing🎤, I ride 🏍️, do bird photo
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="50px" alt="Node" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" height="50px" alt="Angular" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" height="50px" alt="Dart" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="D3" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" alt="Vuetify" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" alt="MaterialUI" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="Babel" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-original.svg" alt="Karma" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" /
+<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" height="50px" alt="D3" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" height="50px" alt="Vue" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" height="50px" alt="Nginx" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" height="50px" alt="Webpack" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" height="50px" alt="Vuetify" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" height="50px" alt="MaterialUI" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" height="50px" alt="Bootstrap" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="50px" alt="HTML5" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="50px" alt="CSS3" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="50px" alt="SASS" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" height="50px" alt="Babel" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" height="50px" alt="GraphQL" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-original.svg" height="50px" alt="Karma" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" height="50px" alt="Jest" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" height="50px" alt="MongoDB" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="50px" alt="NextJS" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" height="50px" alt="Firebase" /
      </div>
 
 
