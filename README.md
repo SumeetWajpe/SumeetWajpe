@@ -17,22 +17,22 @@ I enjoy my work and in my leisure time I sing🎤, I ride 🏍️, do bird photo
 ##Tools and Tech
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" alt="React" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" alt="Storybook" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Typescript" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCODE" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="Dart" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" height="50px" alt="Storybook" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50px" alt="Figma" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="50px" alt="Redux" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="50px" alt="Typescript" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="50px" alt="Git" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="50px" alt="Flutter" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="50px" alt="VSCODE" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50px" alt="Tailwind" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="50px" alt="NPM" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" height="50px" alt="Docker" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" height="50px" alt="Kubernetes" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="50px" alt="JS" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" height="50px" alt="Express" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="50px" alt="Node" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" height="50px" alt="Angular" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" height="50px" alt="Dart" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="D3" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" />
