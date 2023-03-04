@@ -10,7 +10,7 @@ I am passionate and awed 😲 by possibilities the web 🌏 has to offer. As we 
 
 I deliver trainings for experienced industry professionals🥸, freshers😎& anyone who is passionate to learn web technologies. I understand  the requirement from stakeholders & prepare training contents as per the expectations. 
 
-My trainings are 90-95% hands-on.🕺YES. All hands-on & practical knowledge, no boring slides. With latest tools & products available the sessions are interactive and engaging. I have received more than 90% feedback on 95% of trainings conducted till date.
+My trainings are 90-95% hands-on.🕺YES. All hands-on & practical knowledge, no boring slides. With latest tools & products available the sessions are interactive and engaging. I have received more than 90% feedback for 95% of trainings conducted till date.
 
 I enjoy my work and in my leisure time I sing🎤, I ride 🏍️. 
 
@@ -61,10 +61,10 @@ I am a scuba diving enthusiast 🤿.
 [![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe&&show_icons=true&theme=vue-dark)](https://github.com/SumeetWajpe/github-readme-stats)
 
 
-I am reachable on <br/>
-     ➤ learnitwithsumeet@gmail.com <br/>
-     ➤ +91 9881242590 <br/>
-     ➤ https://www.linkedin.com/in/sumeet-wajpe-the-trainer/ <br/>
+     <p>I am reachable on : </p>
+     <p> &nbsp;➤ learnitwithsumeet@gmail.com </p>
+     <p> &nbsp;➤ +91 9881242590 </p>
+     <p> &nbsp;➤ https://www.linkedin.com/in/sumeet-wajpe-the-trainer/ </p>
 
 See you soon ! Happy learning ! 😎
 
