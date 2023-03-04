@@ -19,7 +19,7 @@ I am a bird photographapher🦉 🦅 📸. Love to travel 🧭.
 I am a scuba diving enthusiast 🤿.
 
 <h2>🛠️ Tech and Tools</h2>
-<div style="display:flex">
+<div style="display:flex;margin:5px;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" alt="React" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" height="50px" alt="Storybook" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50px" alt="Figma" />
@@ -61,10 +61,10 @@ I am a scuba diving enthusiast 🤿.
 [![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe&&show_icons=true&theme=vue-dark)](https://github.com/SumeetWajpe/github-readme-stats)
 
 
-I am reachable on 
-     ➤ learnitwithsumeet@gmail.com
-     ➤ +91 9881242590
-     ➤ https://www.linkedin.com/in/sumeet-wajpe-the-trainer/
+I am reachable on <br/>
+     ➤ learnitwithsumeet@gmail.com <br/>
+     ➤ +91 9881242590 <br/>
+     ➤ https://www.linkedin.com/in/sumeet-wajpe-the-trainer/ <br/>
 
 See you soon ! Happy learning ! 😎
 
