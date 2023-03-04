@@ -60,9 +60,8 @@ I am a scuba diving enthusiast 🤿.
 
 [![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe&&show_icons=true&theme=vue-dark)](https://github.com/SumeetWajpe/github-readme-stats)
      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumeetWajpe&theme=slateorange)](https://github.com/SumeetWajpe/github-readme-stats)
-     
-     </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumeetWajpe&theme=slateorange)](https://github.com/SumeetWajpe/github-readme-stats) 
+</div>
 
    I am reachable on : <br/>
      <p> &nbsp;➤ learnitwithsumeet@gmail.com </p>
