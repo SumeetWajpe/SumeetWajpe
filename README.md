@@ -56,10 +56,12 @@ I am a scuba diving enthusiast 🤿.
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" height="50px" alt="Firebase" /
      </div>
 
-
+<div style="display:flex;">
 
 [![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe&&show_icons=true&theme=vue-dark)](https://github.com/SumeetWajpe/github-readme-stats)
-
+     
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumeetWajpe)](https://github.com/SumeetWajpe/github-readme-stats)
+     </div>
 
    I am reachable on : <br/>
      <p> &nbsp;➤ learnitwithsumeet@gmail.com </p>
