@@ -16,6 +16,8 @@ I enjoy my work and in my leisure time I sing🎤, I ride 🏍️, do bird photo
 
 Skills: ➤ REACT / REDUX / JS / HTML5 / CSS3 / FIGMA / ANGULAR / Node / MongoDB / Docker / NextJS / GraphQL / Vue / RWD / Bootstrap / Tailwind / Accessibility / tRPC / Prisma 
 
+[![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe)](https://github.com/SumeetWajpe/github-readme-stats)
+
 I am reachable on 
 ➤ learnitwithsumeet@gmail.com
 ➤ +91 9881242590
