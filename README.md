@@ -1,8 +1,7 @@
 ### Hi there 👋, My name is Sumeet Wajpe
 #### UI/UX/Fullstack JS Technology Trainer 🥷
 
-<img src="https://www.oecd-nea.org/upload/docs/image/jpeg/2020-09/shutterstock_402724045.jpg" height="300px" width="100%" />
-
+<!-- <img src="https://www.oecd-nea.org/upload/docs/image/jpeg/2020-09/shutterstock_402724045.jpg" height="300px" width="100%" /> -->
 
 I am a freelance  corporate trainer 👨‍🏫 for MEAN/MERN Stack technologies. I am young dynamic technopreneur who imbibes to look forward for great challenges and who is a strong believer in innovation. 
 
