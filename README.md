@@ -21,10 +21,10 @@ I enjoy my work and in my leisure time I sing🎤, I ride 🏍️, do bird photo
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50px" alt="Figma" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="50px" alt="Redux" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="50px" alt="Typescript" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" height="100px" alt="Git" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" height="50px" alt="Git" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" height="50px" alt="Flutter" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="50px" alt="VSCODE" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="50px" alt="Tailwind" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" height="50px" alt="Tailwind" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="50px" alt="NPM" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" height="50px" alt="Docker" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" height="50px" alt="Kubernetes" />
