@@ -12,9 +12,13 @@ I deliver trainings for experienced industry professionals🥸, freshers😎& an
 
 My trainings are 90-95% hands-on.🕺YES. All hands-on & practical knowledge, no boring slides. With latest tools & products available the sessions are interactive and engaging. I have received more than 90% feedback on 95% of trainings conducted till date.
 
-I enjoy my work and in my leisure time I sing🎤, I ride 🏍️, do bird photography🦉 🦅& I am scuba diving enthusiast 🤿.
+I enjoy my work and in my leisure time I sing🎤, I ride 🏍️. 
 
-##Tools and Tech
+I am a bird photographapher🦉 🦅 📸. Love to travel 🧭.
+
+I am a scuba diving enthusiast 🤿.
+
+<h2>🛠️ Tech and Tools</h2>
 <div style="display:flex">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" alt="React" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" height="50px" alt="Storybook" />
@@ -53,16 +57,17 @@ I enjoy my work and in my leisure time I sing🎤, I ride 🏍️, do bird photo
      </div>
 
 
+![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe&hide=contribs,prs)
 
+[![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe&&show_icons=true&theme=radical)](https://github.com/SumeetWajpe/github-readme-stats)
 
-[![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe)](https://github.com/SumeetWajpe/github-readme-stats)
 
 I am reachable on 
-➤ learnitwithsumeet@gmail.com
-➤ +91 9881242590
+     ➤ learnitwithsumeet@gmail.com
+     ➤ +91 9881242590
+     ➤ https://www.linkedin.com/in/sumeet-wajpe-the-trainer/
 
-Happy learning ! 
-
+See you soon ! Happy learning ! 😎
 
 
 
