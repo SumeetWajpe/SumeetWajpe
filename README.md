@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Sumeet Wajpe
 #### UI/UX/Fullstack JS Technology Trainer 🥷
-![UI/UX/Fullstack JS Technology Trainer 🥷](https://media.licdn.com/dms/image/C4E16AQHtASr07HGRLQ/profile-displaybackgroundimage-shrink_350_1400/0/1601540853869?e=1683158400&v=beta&t=GPKbg9KiGfFvkiPowReBkLk4PlB98Aup3JxPDWrHcnk)
+![UI/UX/Fullstack JS Technology Trainer 🥷]([https://media.licdn.com/dms/image/C4E16AQHtASr07HGRLQ/profile-displaybackgroundimage-shrink_350_1400/0/1601540853869?e=1683158400&v=beta&t=GPKbg9KiGfFvkiPowReBkLk4PlB98Aup3JxPDWrHcnk](https://9elements.com/blog/content/images/2019/07/learn_code.png))
 
 I am a freelance  corporate trainer 👨‍🏫 for MEAN/MERN Stack technologies. I am young dynamic technopreneur who imbibes to look forward for great challenges and who is a strong believer in innovation. 
 
