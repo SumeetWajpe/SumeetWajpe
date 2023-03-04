@@ -17,7 +17,7 @@ I enjoy my work and in my leisure time I sing🎤, I ride 🏍️, do bird photo
 ##Tools and Tech
 <div style="display:flex">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" height="50px" alt="React" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" height="100px" alt="Storybook" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" width="100px" alt="Storybook" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="50px" alt="Figma" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" height="50px" alt="Redux" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" height="50px" alt="Typescript" />
