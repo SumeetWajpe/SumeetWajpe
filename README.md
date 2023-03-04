@@ -6,6 +6,7 @@
 <img src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header.gif" align="center" alt="Training" />
 I am a freelance  corporate trainer 👨‍🏫 for MEAN/MERN Stack technologies. I am young dynamic technopreneur who imbibes to look forward for great challenges and who is a strong believer in innovation. 
 
+
 I deliver trainings on almost all Javascript libraries and Frameworks including but not limited to React, Redux(with toolkit), Redux Saga, NextJS, Gatsby, Vue, Node, GraphQL, Node, MongoDB, StencilJS & AureliaJS. 
 
 I am passionate and awed 😲 by possibilities the web 🌏 has to offer. As we all know web has evolved a lot from just serving static content to awesomely created dynamic SPA & PWAs in today's world. 
