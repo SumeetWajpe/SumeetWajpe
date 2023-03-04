@@ -57,9 +57,8 @@ I am a scuba diving enthusiast 🤿.
      </div>
 
 
-![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe&hide=contribs,prs)
 
-[![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe&&show_icons=true&theme=radical)](https://github.com/SumeetWajpe/github-readme-stats)
+[![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe&&show_icons=true&theme=vue-dark)](https://github.com/SumeetWajpe/github-readme-stats)
 
 
 I am reachable on 
