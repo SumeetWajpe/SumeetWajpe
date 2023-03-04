@@ -14,7 +14,46 @@ My trainings are 90-95% hands-on.🕺YES. All hands-on & practical knowledge, no
 
 I enjoy my work and in my leisure time I sing🎤, I ride 🏍️, do bird photography🦉 🦅& I am scuba diving enthusiast 🤿.
 
-Skills: ➤ REACT / REDUX / JS / HTML5 / CSS3 / FIGMA / ANGULAR / Node / MongoDB / Docker / NextJS / GraphQL / Vue / RWD / Bootstrap / Tailwind / Accessibility / tRPC / Prisma 
+##Tools and Tech
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" alt="Storybook" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Typescript" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCODE" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="Dart" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="D3" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" alt="Vuetify" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" alt="MaterialUI" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="Babel" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/karma/karma-original.svg" alt="Karma" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" /
+
+
+
+
 
 [![Sumeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumeetWajpe)](https://github.com/SumeetWajpe/github-readme-stats)
 
