@@ -7,13 +7,13 @@
 I am a freelance  corporate trainer 👨‍🏫 for MEAN/MERN Stack technologies. I am young dynamic technopreneur who imbibes to look forward for great challenges and who is a strong believer in innovation.
 
 
-I deliver trainings on almost all Javascript libraries and Frameworks including but not limited to React, Redux(with toolkit), Redux Saga, NextJS, Gatsby, Vue, Node, GraphQL, Node, MongoDB, StencilJS & AureliaJS, Flutter. 
+I deliver trainings on almost all Javascript libraries and Frameworks including but not limited to **React, Redux(with toolkit), Redux Saga, NextJS, Gatsby, Vue, Node, GraphQL, Node, MongoDB, StencilJS & AureliaJS, Flutter.** 
 
 I am passionate and awed 😲 by possibilities the web 🌏 has to offer. As we all know web has evolved a lot from just serving static content to awesomely created dynamic SPA & PWAs in today's world. 
 
-I deliver trainings for experienced industry professionals🥸, freshers😎& anyone who is passionate to learn web technologies. I understand  the requirement from stakeholders & prepare training contents as per the expectations. 
+I deliver trainings for **experienced industry professionals🥸, freshers😎** & anyone who is passionate to learn web technologies. I understand  the _requirement_ from _stakeholders_ & prepare training contents as per the expectations. 
 
-My trainings are 90-95% hands-on.🕺YES. All hands-on & practical knowledge, no boring slides. With latest tools & products available the sessions are interactive and engaging. I have received more than 90% feedback for 95% of trainings conducted till date.
+**My trainings are 90-95% hands-on.🕺YES**. All hands-on & practical knowledge, no boring slides. With latest tools & products available the sessions are interactive and engaging. I have received more than 90% feedback for 95% of trainings conducted till date.
 
 I enjoy my work and in my leisure time I sing🎤, I ride 🏍️. 
 
