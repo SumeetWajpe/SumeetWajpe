@@ -15,11 +15,13 @@ I deliver trainings for **experienced industry professionals🥸, freshers😎**
 
 **My trainings are 90-95% hands-on.🕺YES**. All hands-on & practical knowledge, no boring slides. With latest tools & products available the sessions are interactive and engaging. I have received more than 90% feedback for 95% of trainings conducted till date.
 
-I enjoy my work and in my leisure time I sing🎤, I ride 🏍️. 
+I enjoy my work and in my leisure time I sing🎤, I ride 🏍️
 
-I am a bird photographapher🦉 🦅 📸. Love to travel 🧭.
+I am a bird photographapher🦉 🦅 📸
 
-I am a scuba diving enthusiast 🤿.
+Avid Surfer 🏄
+
+Love to travel 🧭 & a scuba diving enthusiast 🤿
 
 <h2>🛠️ Tech and Tools</h2>
 <div style="display:flex;margin:5px;">
